@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2020/10/55 16:46
+# @Time    : 2020/10/15 16:46
 # @Author  : Fusen Wang
 # @Email   : 201924131014@cqu.edu.cn
 # @File    : HANet.py
