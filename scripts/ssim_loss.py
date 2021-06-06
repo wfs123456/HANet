@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2020/11/5 14:53
+# @Author  : Fusen Wang
+# @Email   : 201924131014@cqu.edu.cn
+# @File    : ssim_loss.py
+# @Software: PyCharm
+
 import torch
 import torch.nn.functional as F
 from torch.autograd import Variable

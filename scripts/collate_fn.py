@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2/20/20 10:15 PM
-# @Author  : zhongyuan
-# @Email   : zhongyuandt@gmail.com
+# @Time    : 2020/10/7 16:02
+# @Author  : Fusen Wang
+# @Email   : 201924131014@cqu.edu.cn
 # @File    : collate_fn.py
 # @Software: PyCharm
 

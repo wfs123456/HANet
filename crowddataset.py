@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time    : 1/2/20 9:07 PM
-# @Author  : zhongyuan
-# @Email   : zhongyuandt@gmail.com
-# @File    : dataset_constant.py
+# @Time    : 2020/10/6 9:21
+# @Author  : Fusen Wang
+# @Email   : 201924131014@cqu.edu.cn
+# @File    : crowddataset.py
 # @Software: PyCharm
 
 

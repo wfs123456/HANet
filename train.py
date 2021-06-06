@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-# @Time    : 10/15/19 10:59 AM
-# @Author  : zhongyuan
-# @Email   : zhongyuandt@gmail.com
+# @Time    : 2020/10/15 9:23
+# @Author  : Fusen Wang
+# @Email   : 201924131014@cqu.edu.cn
 # @File    : train.py
 # @Software: PyCharm
 

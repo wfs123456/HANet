@@ -1,15 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time    : 5/23/20 11:38 AM
-# @Author  : zhongyuan
-# @Email   : zhongyuandt@gmail.com
+# @Time    : 2020/10/15 11:32
+# @Author  : Fusen Wang
+# @Email   : 201924131014@cqu.edu.cn
 # @File    : vis.py
-# @Software: PyCharm
-
-# -*- coding: utf-8 -*-
-# @Time    : 10/15/19 11:30 AM
-# @Author  : zhongyuan
-# @Email   : zhongyuandt@gmail.com
-# @File    : test.py
 # @Software: PyCharm
 
 import model

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2/16/20 1:48 AM
-# @Author  : zhongyuan
-# @Email   : zhongyuandt@gmail.com
+# @Time    : 2020/10/7 9:50
+# @Author  : Fusen Wang
+# @Email   : 201924131014@cqu.edu.cn
 # @File    : log.py
 # @Software: PyCharm
 

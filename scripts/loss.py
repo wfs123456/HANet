@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2/14/20 10:11 PM
-# @Author  : zhongyuan
-# @Email   : zhongyuandt@gmail.com
+# @Time    : 2020/10/6 17:30
+# @Author  : Fusen Wang
+# @Email   : 201924131014@cqu.edu.cn
 # @File    : loss.py
 # @Software: PyCharm
 

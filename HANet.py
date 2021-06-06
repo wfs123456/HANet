@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time    : 10/14/19 12:41 PM
-# @Author  : zhongyuan
-# @Email   : zhongyuandt@gmail.com
-# @File    : net.py
+# @Time    : 2020/10/55 16:46
+# @Author  : Fusen Wang
+# @Email   : 201924131014@cqu.edu.cn
+# @File    : HANet.py
 # @Software: PyCharm
 
 import torch.nn as nn
