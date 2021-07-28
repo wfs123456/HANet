@@ -3,7 +3,7 @@
 crowd counting
 * The paper is under review.
 
-* Paper [Link]()
+* Paper [Link](https://arxiv.org/pdf/2106.02324.pdf)
 
 ## Overview
 ![avatar](./image/overview.jpg)
